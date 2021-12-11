@@ -24,4 +24,15 @@
 {
     border: 5px solid aqua;
     box-shadow: 10px 10px 20px aqua;
+    width: 900;
+    height: 700;
+}
+
+video
+{
+    background: url('game_console copy.png');
+    background-size: cover;
+    background-position: center;
+    padding: 50px;
+
 }
